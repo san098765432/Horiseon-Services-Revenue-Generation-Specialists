@@ -1,8 +1,3 @@
-
-# HOMEWORK ASSIGNMENT:
-Code Refactor- Horiseon-Services-Revenue-Generation-Specialists
-
-
 # DESCRIPTION:
 
 This code refactoring task involved the refactoring of existing code for a marketing agency. It has been improved to increase accessibility and also had HTML semantic elements added to it so the appearance of the website itself remains the same but the site is optimized for search engines.
@@ -32,6 +27,10 @@ THEN I find a concise, descriptive title
 
 # SCREENSHOT:
 
+<figure>
+<img src="./assets/images/screenshot.png">
+</figure>
+
 
 
 
@@ -41,4 +40,4 @@ http://127.0.0.1:5501/index.html
 
 
 # LINK TO GITHUB REPOSITORY:
-
+https://github.com/san098765432/Horiseon-Services-Revenue-Generation-Specialists 
