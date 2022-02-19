@@ -28,7 +28,7 @@ THEN I find a concise, descriptive title
 # SCREENSHOT:
 
 <figure>
-<img src="./assets/images/screenshot.png">
+<img src="./assets/images/SCREENSHOT.png">
 </figure>
 
 
@@ -36,7 +36,7 @@ THEN I find a concise, descriptive title
 
 
 # LINK TO DEPLOYED APPLICATION:
-http://127.0.0.1:5501/index.html 
+https://san098765432.github.io/Horiseon-Services-Revenue-Generation-Specialists/ 
 
 
 # LINK TO GITHUB REPOSITORY:
