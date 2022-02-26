@@ -25,19 +25,17 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 
+# LIST OF TECHNOLOGIES USED
+
+- CSS
+- HTML
+
 # SCREENSHOT:
 
 <figure>
 <img src="./assets/images/SCREENSHOT.png">
 </figure>
 
-
-
-
-# LIST OF TECHNOLOGIES USED
-
-- CSS
-- HTML
 
 # LINK TO DEPLOYED APPLICATION:
 https://san098765432.github.io/Horiseon-Services-Revenue-Generation-Specialists/ 
