@@ -36,8 +36,8 @@ THEN I find a concise, descriptive title
 
 # LIST OF TECHNOLOGIES USED
 
-CSS
-HTML
+- CSS
+- HTML
 
 # LINK TO DEPLOYED APPLICATION:
 https://san098765432.github.io/Horiseon-Services-Revenue-Generation-Specialists/ 
